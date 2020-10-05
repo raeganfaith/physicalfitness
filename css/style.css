@@ -140,6 +140,9 @@ header .ham-burger.active span:nth-child(2){
 	-webkit-transform: rotate(-45deg) translateY(6px);
 	transform: rotate(-45deg) translateY(6px)
 }
+form.membercolor {
+	color: white;
+}
 
 .container{
 	max-width: 1170px;
@@ -717,6 +720,8 @@ header .ham-burger.active span:nth-child(2){
 
 /*Contact Section*/
 
+
+
 .contact{
 	padding:80px 0px;
 	background-color: #222222;
@@ -936,6 +941,7 @@ flex: 0 0 100%;
     max-width: 100%;
 }
 }
+h1
 
 /*if screen width is less than or equal to 550px then*/
 @media(max-width: 550px){
